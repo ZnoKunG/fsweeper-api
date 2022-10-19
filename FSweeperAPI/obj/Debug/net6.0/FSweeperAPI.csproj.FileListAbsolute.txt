@@ -1,0 +1,74 @@
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\appsettings.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.exe
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.deps.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.runtimeconfig.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.pdb
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.csproj.AssemblyReference.cache
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.AssemblyInfoInputs.cache
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.AssemblyInfo.cs
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.csproj.CoreCompileInputs.cache
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\scopedcss\bundle\FSweeperAPI.styles.css
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.csproj.CopyComplete
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\refint\FSweeperAPI.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.pdb
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.genruntimeconfig.cache
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\ref\FSweeperAPI.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.csproj.AssemblyReference.cache
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.AssemblyInfoInputs.cache
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.AssemblyInfo.cs
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.csproj.CoreCompileInputs.cache
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\refint\FSweeperAPI.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.pdb
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\appsettings.json
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.exe
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.deps.json
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.runtimeconfig.json
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\FSweeperAPI.pdb
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\DnsClient.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\MongoDB.Bson.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\MongoDB.Driver.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\MongoDB.Driver.Core.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\MongoDB.Libmongocrypt.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\SharpCompress.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\linux\native\libsnappy64.so
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\linux\native\libzstd.so
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\osx\native\libsnappy64.dylib
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\osx\native\libzstd.dylib
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\win\native\libzstd.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\win\native\snappy32.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\win\native\snappy64.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\linux\native\libmongocrypt.so
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\osx\native\libmongocrypt.dylib
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\runtimes\win\native\mongocrypt.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\scopedcss\bundle\FSweeperAPI.styles.css
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.csproj.CopyComplete
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\FSweeperAPI.genruntimeconfig.cache
+D:\WebAPI\FSweeperAPI\FSweeperAPI\obj\Debug\net6.0\ref\FSweeperAPI.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\WebAPI\FSweeperAPI\FSweeperAPI\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll

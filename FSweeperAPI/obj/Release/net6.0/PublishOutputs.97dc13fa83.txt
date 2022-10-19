@@ -1,0 +1,11 @@
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\FSweeperAPI.exe
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\FSweeperAPI.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\FSweeperAPI.deps.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\FSweeperAPI.runtimeconfig.json
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\FSweeperAPI.pdb
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Unity Projects\FSweeper\FSweeper\Assets\Scripts\GameManager\FSweeperAPI\FSweeperAPI\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
